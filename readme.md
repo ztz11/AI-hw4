@@ -185,7 +185,7 @@ Page Assist是一款基于Chrome的浏览器插件，在Chrome的浏览器插件
 
 启动后，可直接进入进入对话界面
 
-![ollama](C:\Users\15787\Desktop\2025-1\人工智能导论\作业\4\ollama.png)
+![ollama](https://github.com/ztz11/AI-hw4/blob/main/ollama.png?raw=true)
 
 左上角可进行选择模型，保存对话记录等操作，提问无需编写推理脚本，直接在下方文本框中输入相关问题并点击提交即可
 
